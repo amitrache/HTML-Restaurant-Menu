@@ -4,6 +4,7 @@ body {
     padding: 0;
     background-color: beige;
     text-align: center;
+    border-width:200cm;
 }
 
 h1,
@@ -53,7 +54,7 @@ nav a:hover {
 }
 
 #banner {
-    width: 100%;
+    width: 30%;
     height: auto;
     background-color: white;
 }
